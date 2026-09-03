@@ -43,7 +43,7 @@ I’m an **Information Technology professional** with nearly **4 years of experi
 
 ### Shopify Web Designer / Developer (Part-Time)
 
-**June 2024 – December 2024**
+**May 2024 – December 2024**
 
 Designed and developed responsive Shopify websites, customized themes and UI components, and collaborated with teams to improve user experience and website performance.
 
