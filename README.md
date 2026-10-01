@@ -49,7 +49,7 @@ Designed and developed responsive Shopify websites, customized themes and UI com
 
 ### Technical Support Rep II — You.com
 
-**Support Ninja Inc. | October 2024 – November 2025**
+**Support Ninja Inc. | October 2024 – September 2026**
 
 Provided advanced email-based technical support, investigated platform and account issues, assisted users with product workflows, and handled API, billing, and security-related inquiries.
 
