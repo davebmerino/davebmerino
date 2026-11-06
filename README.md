@@ -2,7 +2,7 @@
 
 ### Technical Support Rep. | Technical Support Engineer | Shopify Web Developer | React Learner | IT Professional
 
-I’m an **Information Technology professional** with nearly **4 years of experience** in technical support, support engineering, and web development. I’m currently focused on **full-stack web development**, building responsive web applications with **React, Tailwind CSS, JavaScript, and Shopify**, while continuously expanding my skills in modern web technologies and data analytics.
+I’m an **Information Technology professional** with **5 years of experience** in technical support, support engineering, and web development. I’m currently focused on **full-stack web development**, building responsive web applications with **React, Tailwind CSS, JavaScript, and Shopify**, while continuously expanding my skills in modern web technologies and data analytics.
 
 ---
 
